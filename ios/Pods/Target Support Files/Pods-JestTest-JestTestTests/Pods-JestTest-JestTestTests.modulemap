@@ -1,0 +1,6 @@
+module Pods_JestTest_JestTestTests {
+  umbrella header "Pods-JestTest-JestTestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
